@@ -5,4 +5,4 @@ const userName = (name, surname) => {
   };
 };
 console.log(userName("fabio", "moschella"));
-module.exports = { userName };
+module.exports = userName("fabio", "moschella");

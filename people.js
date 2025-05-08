@@ -1,1 +1,2 @@
-const fullName = require("node");
+const fullName = require("./name.js");
+const hobbies = require("./hobbies.js");
